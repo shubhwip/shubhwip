@@ -9,7 +9,7 @@
 💡 &nbsp; Software Engineer
 
 #### Badges<br/>
-[![github badge](https://img.shields.io/github/followers/shubhwip?label=Follow&style=social)](https://github.com/haarolean)
+[![github badge](https://img.shields.io/github/followers/shubhwip?label=Follow&style=social)](https://github.com/shubhwip)
 <br/>
 <br/>
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhwip&count_private=true&show_icons=true)](https://github.com/shubhwip/github-readme-stats)
