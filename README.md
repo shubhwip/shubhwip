@@ -6,12 +6,17 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am working as a Software Engineer. \
-💻 &nbsp;I'm currenty making websites and making content on my Twitter handle.\
-🎓&nbsp;I graduated from MBM Engineering College, Jodhpur (B.Tech, Computer Science and Engineering, Batch of 2016).\
-✍️ &nbsp;In my free time, I listen to songs and love to watch Sci-Fi movies.\
-📄 &nbsp;You can check my [Twitter](https://twitter.com/shubhjaincoder) for more details about me.
+💡 &nbsp; Software Engineer
 
+#### Badges<br/>
+[![github badge](https://img.shields.io/github/followers/shubhwip?label=Follow&style=social)](https://github.com/haarolean)
+<br/>
+<br/>
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhwip&count_private=true&show_icons=true)](https://github.com/shubhwip/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhwip&hide=css,sourcepawn&layout=compact)](https://github.com/shubhwip/github-readme-stats)
+<br/>
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
