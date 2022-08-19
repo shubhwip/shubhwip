@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Shubham Jain <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-![version :02.01.2022](https://img.shields.io/badge/version-02.01.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=shubhwip&color=red)&nbsp;
-[![GitHub souravjain540](https://img.shields.io/github/followers/shubhwip?label=follow&style=social)](https://github.com/shubhwip)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+[![GitHub shubhwip](https://img.shields.io/github/followers/shubhwip?label=follow&style=social)](https://github.com/shubhwip)&nbsp;
+[![shubham StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8017666)](https://stackoverflow.com/users/8017666/shubham)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; Software Engineer
