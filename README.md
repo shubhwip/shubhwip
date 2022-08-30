@@ -57,7 +57,7 @@
  <a href="https://stackoverflow.com/users/8017666/shubham">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>
-<a href="https://twitter.com/shubhjaincoder">
+<a href="https://twitter.com/shubhrjain">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top margin:6px 4px">
  </a>
 <a href="mailto:shubhrjain7@gmail.com">
