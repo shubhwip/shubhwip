@@ -5,9 +5,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Software Engineer
+Hi there 👋 <br/>
+My name is Shubham Jain. I am full stack developer and passionate about code and learning new stuff 🙇🏻
 
-#### Badges<br/>
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhwip&count_private=true&show_icons=true)](https://github.com/shubhwip/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhwip&hide=css,sourcepawn&layout=compact)](https://github.com/shubhwip/github-readme-stats)
@@ -65,10 +65,3 @@
  </a>
 &nbsp;
 <br/>
-
-  [![Shubham's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shubhwip&theme=xcode)](https://git.io/ShreyaPrasad1209)
-   <br />
-   <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubhwip&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-   <br />
-   <br />
